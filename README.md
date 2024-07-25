@@ -1,6 +1,6 @@
 # ChatBot
 
-#We worked as a group the group members:
+## We worked as a group the group members:
 
 - Cady Alali
 - Dana Alghofaily
